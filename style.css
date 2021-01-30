@@ -102,11 +102,9 @@ nav ul li a:hover, a.active{
     min-width: 100px;
 }
 .plus-minus-btn{
-    
     font-size: 30px;
     padding: 2px;
     margin: 10px 10px 0px 0px;
-    /* margin-left: 20px; */
     word-spacing: 20px;
 }
 .btn-style{
